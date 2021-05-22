@@ -56,7 +56,7 @@ public class Homework06 {
         }
         return minN;
 
-        //See you in giHub
+
 
     }
 
